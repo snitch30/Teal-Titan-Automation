@@ -14,7 +14,9 @@ As of today, most of the industry standard solutions consisting a Vision Guided 
 
 We challenged ourselves by using a static camera over the bin, against the industry standard of having a static camera over the bin as well as a camera attached to the arm of the robot in order to make it more accurate while guiding it to the location, as well as easier image capture possible for training.
 
-![img](op/1.png)
+<p align="center">
+  <img src=op/1.png />
+</p>
 
 We split the images into ’n’ number of pieces, where ’n’ depends on the size of the components and we assign each piece to a coordinate.
 By using this we avoid necessity of two cameras and thus reducing overhead costs.
