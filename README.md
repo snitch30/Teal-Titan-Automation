@@ -1,5 +1,5 @@
 # Teal-Titan-Automation
-### A Custom Convolutional Neural Network Architecture based Machine Automation for Teal, Titan
+### A Custom Convolutional Neural Network Architecture based Machine Automation for Titan Engineering and Automation Limited (TEAL)
 
 ## Introduction
 This project aims at replacing vibratory bowl feeders in industry production lines with a vision guided robot. This project we use VGR in the form a cobot arm equipped with an external camera and using the input/feedback from the camera, we uses various algorithms to help the cobot pick the component from the bin successfully.
