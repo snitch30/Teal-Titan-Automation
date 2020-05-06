@@ -1,5 +1,5 @@
 # Teal-Titan-Automation
-### A Custom Convolutional Neural Network Architecture based Machine Automation for [Titan](https://www.titancompany.in) Engineering and Automation Limited [(TEAL)](https://www.titancompany.in/subsidiaries/titan-engineering-automation-limited)
+A Custom Convolutional Neural Network Architecture based Machine Automation for [Titan](https://www.titancompany.in) Engineering and Automation Limited [(TEAL)](https://www.titancompany.in/subsidiaries/titan-engineering-automation-limited)
 
 *This solution was one among 35 selected projects out of 250 projects showcased during the company's "Technology Day".*
 
